@@ -1,0 +1,132 @@
+.containerCarrousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 100vw;
+    overflow: hidden;
+    padding-top: 25px;
+}
+
+.carrouselWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+}
+
+.carrousel {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    animation: slide 60s infinite;
+}
+
+.carrousel li {
+    flex: 0 0 50%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    transition: transform 0.3s ease;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.carrousel img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 1%;
+}
+
+@keyframes slide {
+    0% {
+        transform: translateX(0);
+        /* Les premières images sont visibles */
+    }
+
+    8.33% {
+        transform: translateX(0);
+        /* La première paire reste visible */
+    }
+
+    16.67% {
+        transform: translateX(-50%);
+        /* Les premières images glissent hors de l'écran */
+    }
+
+    25% {
+        transform: translateX(-50%);
+        /* La troisième et quatrième image sont visibles */
+    }
+
+    33.33% {
+        transform: translateX(-100%);
+        /* La troisième et quatrième image glissent hors de l'écran */
+    }
+
+    41.66% {
+        transform: translateX(-100%);
+        /* La cinquième et sixième image sont visibles */
+    }
+
+    50% {
+        transform: translateX(-150%);
+        /* La cinquième et sixième image glissent hors de l'écran */
+    }
+
+    58.33% {
+        transform: translateX(-150%);
+        /* La septième et huitième image sont visibles */
+    }
+
+    66.66% {
+        transform: translateX(-200%);
+        /* La septième et huitième image glissent hors de l'écran */
+    }
+
+    75% {
+        transform: translateX(-200%);
+        /* La neuvième et dixième image sont visibles */
+    }
+
+    83.33% {
+        transform: translateX(-250%);
+        /* La neuvième et dixième image glissent hors de l'écran */
+    }
+
+    91.66% {
+        transform: translateX(-250%);
+        /* La onzième et douzième image sont visibles */
+    }
+
+    100% {
+        transform: translateX(-300%);
+        /* La onzième et douzième image glissent hors de l'écran et on revient à 0% */
+    }
+}
+
+/* Effet hover sur les images */
+.carrousel li:hover {
+    transform: scale(1.05);
+    /* Agrandissement léger au survol */
+}
+
+/* Effet hover sur l'image elle-même */
+.carrousel img:hover {
+    transform: scale(1.05);
+    /* Agrandissement léger de l'image au survol */
+}
+
+.carrousel img:focus {
+    outline: none;
+    /* Enlève le contour par défaut de l'élément focus */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    /* Ombre portée grise pour l'élément sélectionné */
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "author": "Masashi Kishimoto",
+    "releaseDate": "1999-09-21",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/FF5733/FFFFFF&text=Naruto"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "author": "Eiichiro Oda",
+    "releaseDate": "1997-07-22",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/0000FF/FFFFFF&text=One+Piece"
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan",
+    "author": "Hajime Isayama",
+    "releaseDate": "2009-09-09",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/00FF00/FFFFFF&text=Attack+on+Titan"
+  },
+  {
+    "id": 4,
+    "title": "My Hero Academia",
+    "author": "Kohei Horikoshi",
+    "releaseDate": "2014-07-07",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/FFCC00/000000&text=My+Hero+Academia"
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "author": "Tsugumi Ohba",
+    "releaseDate": "2003-04-02",
+    "genre": "Seinen",
+    "image": "https://dummyimage.com/400x300/FF00FF/FFFFFF&text=Death+Note"
+  },
+  {
+    "id": 6,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "author": "Koyoharu Gotouge",
+    "releaseDate": "2016-02-15",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/00FFFF/000000&text=Demon+Slayer"
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist",
+    "author": "Hiromu Arakawa",
+    "releaseDate": "2001-07-18",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/000000/FFFFFF&text=Fullmetal+Alchemist"
+  },
+  {
+    "id": 8,
+    "title": "One Punch Man",
+    "author": "Yusuke Murata",
+    "releaseDate": "2012-06-14",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/FF5733/FFFFFF&text=One+Punch+Man"
+  },
+  {
+    "id": 9,
+    "title": "Tokyo Ghoul",
+    "author": "Sui Ishida",
+    "releaseDate": "2011-09-08",
+    "genre": "Seinen",
+    "image": "https://dummyimage.com/400x300/FF0000/FFFFFF&text=Tokyo+Ghoul"
+  },
+  {
+    "id": 10,
+    "title": "Jujutsu Kaisen",
+    "author": "Gege Akutami",
+    "releaseDate": "2018-03-05",
+    "genre": "Shonen",
+    "image": "https://dummyimage.com/400x300/33FF57/FFFFFF&text=Jujutsu+Kaisen"
+  }
+]

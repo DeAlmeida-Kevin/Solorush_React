@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "author": "Masashi Kishimoto",
+    "releaseDate": "1999-09-21",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249658.jpg"
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "author": "Eiichiro Oda",
+    "releaseDate": "1997-07-22",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253146.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan",
+    "author": "Hajime Isayama",
+    "releaseDate": "2009-09-09",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/86361.jpg"
+  },
+  {
+    "id": 4,
+    "title": "My Hero Academia",
+    "author": "Kohei Horikoshi",
+    "releaseDate": "2014-07-07",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178689.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "author": "Tsugumi Ohba",
+    "releaseDate": "2003-04-02",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258245.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "author": "Koyoharu Gotouge",
+    "releaseDate": "2016-02-15",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/201496.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist",
+    "author": "Hiromu Arakawa",
+    "releaseDate": "2001-07-18",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258224.jpg"
+  },
+  {
+    "id": 8,
+    "title": "One Punch Man",
+    "author": "Yusuke Murata",
+    "releaseDate": "2012-06-14",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/188472.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Tokyo Ghoul",
+    "author": "Sui Ishida",
+    "releaseDate": "2011-09-08",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/94539.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Jujutsu Kaisen",
+    "author": "Gege Akutami",
+    "releaseDate": "2018-03-05",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/202609.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Bleach",
+    "author": "Tite Kubo",
+    "releaseDate": "2001-08-07",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253153.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Chainsaw Man",
+    "author": "Tatsuki Fujimoto",
+    "releaseDate": "2018-12-03",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222295.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Dr. Stone",
+    "author": "Riichiro Inagaki",
+    "releaseDate": "2017-03-06",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/181999.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Haikyu!!",
+    "author": "Haruichi Furudate",
+    "releaseDate": "2012-02-20",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173925.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Black Clover",
+    "author": "Yūki Tabata",
+    "releaseDate": "2015-02-16",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/178631.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Spy × Family",
+    "author": "Tatsuya Endō",
+    "releaseDate": "2019-03-25",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222295.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Kaiju No. 8",
+    "author": "Naoya Matsumoto",
+    "releaseDate": "2020-07-03",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226795.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Mashle: Magic and Muscles",
+    "author": "Hajime Kōmoto",
+    "releaseDate": "2020-01-27",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/222295.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Dandadan",
+    "author": "Yukinobu Tatsu",
+    "releaseDate": "2021-08-04",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/233373.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Hunter x Hunter",
+    "author": "Yoshihiro Togashi",
+    "releaseDate": "1998-03-03",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/267706.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Fairy Tail",
+    "author": "Hiro Mashima",
+    "releaseDate": "2006-08-02",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/258224.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Blue Exorcist",
+    "author": "Kazue Katou",
+    "releaseDate": "2009-04-04",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/1/258245.jpg"
+  },
+  {
+    "id": 23,
+    "title": "The Promised Neverland",
+    "author": "Kaiu Shirai",
+    "releaseDate": "2016-08-01",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/178689.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Reborn!",
+    "author": "Akira Amano",
+    "releaseDate": "2004-05-24",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249658.jpg"
+  },
+  {
+    "id": 25,
+    "title": "D.Gray-man",
+    "author": "Katsura Hoshino",
+    "releaseDate": "2004-10-04",
+    "genre": "Shonen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253153.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Your Name",
+    "author": "Makoto Shinkai",
+    "releaseDate": "2016-06-18",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/181999.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Mushishi",
+    "author": "Yuki Urushibara",
+    "releaseDate": "1999-10-10",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/86361.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Made in Abyss",
+    "author": "Akihito Tsukushi",
+    "releaseDate": "2012-10-20",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173925.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Kaguya-sama: Love is War",
+    "author": "Aka Akasaka",
+    "releaseDate": "2015-05-19",
+    "genre": "Seinen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/173925.jpg"
+  }
+]

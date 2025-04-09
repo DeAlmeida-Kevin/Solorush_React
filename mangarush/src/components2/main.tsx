@@ -49,7 +49,7 @@ function Book() {
                                 <p className="genre">{manga.genre}</p>
                                 <button
                                     onClick={(e) => {
-                                        e.stopPropagation(); // évite que le clic retourne la carte
+                                        e.stopPropagation();
                                         setIsFavorite(!isFavorite);
                                     }}
                                     type="button"

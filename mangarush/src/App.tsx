@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header.tsx';
-import Book from './components2/main.tsx'
+import Book from './components2/main.tsx';
+import Footer from './components3/footer.tsx';
 
 
 function App() {
@@ -8,9 +9,8 @@ function App() {
     <>
       <div>
         <Header />
-      </div>
-      <div>
         <Book />
+        <Footer />
       </div>
     </>
   );

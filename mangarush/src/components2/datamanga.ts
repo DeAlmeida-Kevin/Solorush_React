@@ -256,5 +256,37 @@ export const mangas = [
         "releaseDate": "2021-04-06",
         "genre": "Shonen",
         "image": "src/assets/tome1/t31.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Black Clover: Clover Kingdom",
+        "author": "Yūki Tabata",
+        "releaseDate": "2015-10-03",
+        "genre": "Shonen",
+        "image": "src/assets/tome1/t32.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Akira",
+        "author": "Katsuhiro Otomo",
+        "releaseDate": "1984-12-01",
+        "genre": "Seinen",
+        "image": "src/assets/tome1/t33.jpg"
+    },
+    {
+        "id": 34,
+        "title": "The Seven Deadly Sins",
+        "author": "Nakaba Suzuki",
+        "releaseDate": "2012-10-01",
+        "genre": "Shonen",
+        "image": "src/assets/tome1/t34.jpg"
+    },
+    {
+        "id": 35,
+        "title": "Your Name",
+        "author": "Makoto Shinkai",
+        "releaseDate": "2016-08-10",
+        "genre": "Romance",
+        "image": "src/assets/tome1/t35.jpg"
     }
-]
+];

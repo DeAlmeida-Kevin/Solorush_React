@@ -2,6 +2,7 @@ import "./main.css";
 import { mangas } from "./datamanga";
 import { useState } from "react";
 
+
 function Book() {
 
     const [flippedCardId, setFlippedCardId] = useState(null);
@@ -19,11 +20,20 @@ function Book() {
                     value={search}
                     placeholder="🔎 Search a manga ">
                 </input>
+
                 <div className="navlogo">
+                    <p className="connexion" onClick={() => {
+                        const userInput = prompt("Entrez un texte :");
+                        if (userInput) {
+                            document.querySelector('.connexion')!.textContent = userInput;
+                        }
+                    }}>
+                        Se Connecter
+                    </p>
+                    <img src="src/components2/imglogo/utilisateur.png" alt="" />
                     <img src="src/components2/imglogo/discorde.png" alt="" />
                     <img src="src/components2/imglogo/facebook.png" alt="" />
                     <img src="src/components2/imglogo/instagram.png" alt="" />
-                    <img src="src/components2/imglogo/tic.png" alt="" />
                     <img src="src/components2/imglogo/twitter.png" alt="" />
                     <img src="src/components2/imglogo/yahoo.png" alt="" />
                 </div>

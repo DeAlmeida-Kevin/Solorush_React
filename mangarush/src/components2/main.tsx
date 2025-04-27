@@ -5,7 +5,7 @@ import { useState } from "react";
 
 function Book() {
 
-    const [flippedCardId, setFlippedCardId] = useState(null);
+    const [flippedCardId, setFlippedCardId] = useState(0);
     const [isFavorite, setIsFavorite] = useState(false);
     const [search, setSearch] = useState("");
     const mangasFiltered = mangas.filter((manga) => {
@@ -45,7 +45,7 @@ function Book() {
                         key={manga.id}
                         className={`card ${flippedCardId === manga.id ? 'flipped' : ''}`}
                         onClick={() =>
-                            setFlippedCardId(flippedCardId === manga.id ? null : manga.id)
+                            setFlippedCardId(manga.id)
                         }
                     >
                         <div className="card-inner">
